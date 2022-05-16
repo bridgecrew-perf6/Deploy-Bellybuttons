@@ -1,6 +1,9 @@
 # Deploy-Bellybuttons
 
-In our challenge this week we completed the Belly Button Biodiversity dashboard that we started building in the modules.  Using Plotly, Bootstrap, and D3 we constructed a dynamic dashboard that allows the user to investigate the dataset. This repo was created to deploy the dashboard through GitPages but most of the development of the code was done in the Belly Button Bacteria repo.
+In our challenge this week we completed the Belly Button Biodiversity dashboard that we started building in the modules.  Using Plotly, Bootstrap, and D3 we constructed a dynamic dashboard that allows the user to investigate the dataset. This repo was created to deploy the dashboard through GitPages but most of the development of the code was done in the Belly Button Bacteria repo. Here are images showing how the page looks when initially loaded:
+
+![website1](https://github.com/mgsrichard/Deploy-Bellybuttons/blob/main/images/webpage_1.png)
+![website2](https://github.com/mgsrichard/Deploy-Bellybuttons/blob/main/images/webpage_2.png)
 
 ## JavaScript in charts.js
 The JavaScript file, charts.js,  uses the D3 library to access our data file, samples.json, with the d3.json() function. In JavaScript we set up the following functions:
