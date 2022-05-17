@@ -1,5 +1,5 @@
 
-#Belly Button Biodiversity Dashboard
+# Belly Button Biodiversity Dashboard
 Using Plotly, Bootstrap, and D3 I constructed a dynamic dashboard that allows the user to investigate a dataset with information about bacteria found in belly buttons. This repo was created to deploy the dashboard through GitPages but most of the development of the code was done in the Belly Button Bacteria repo. To navigate to the dashboard, click here: [BellyButton Dashboard](https://mgsrichard.github.io/Deploy-Bellybuttons/). Here are images showing how the page looks when initially loaded:
 
 ![website1](https://github.com/mgsrichard/Deploy-Bellybuttons/blob/main/images/webpage_1.png)
