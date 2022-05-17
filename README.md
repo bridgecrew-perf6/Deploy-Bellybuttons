@@ -23,3 +23,7 @@ The index.html contains the html code for the dashboard. It imports bootstrap, o
 ## style.css
 In the style.css file I set up the colors for the page, alice blue for the background and midnight blue for the font. Also I linked a picture of bacteria to go into the jumbotron header. The picture is also blue and white, and I made the whole page be shades of blue with white for contrast. The bar chart defaulted to blue, and I changed the colors in the gauge chart to shades of blue, and I added a colorscale called "Picnic" to the bubble chart that had a good amount of blue shades plus some other colors that coordinated pretty well with the color scheme of the page. Also in the style.css I added a custom font family: Arial, Helvetica Neue, Helvetica, sans-serif
 ![css pic](https://github.com/mgsrichard/Deploy-Bellybuttons/blob/main/images/css_pic.png)
+
+### Contact Information
+Martha Richardson <br>
+mgsrichard@yahoo.com
